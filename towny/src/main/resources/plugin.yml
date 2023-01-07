@@ -1,5 +1,0 @@
-name: MagicSpellsTowny
-main: com.nisovin.magicspells.towny.MagicSpellsTowny
-version: $version
-author: nisovin
-depend: [MagicSpells,Towny]

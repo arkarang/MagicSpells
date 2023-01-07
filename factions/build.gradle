@@ -1,9 +1,0 @@
-dependencies {
-    implementation project(":core")
-    //implementation ":MassiveCore"
-    //implementation ":Factions"
-}
-
-jar {
-    archiveFileName = "MagicSpellsFactions.jar"
-}

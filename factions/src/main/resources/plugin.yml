@@ -1,5 +1,0 @@
-name: MagicSpellsFactions
-version: $version
-main: com.nisovin.magicspells.factions.MagicSpellsFactions
-depend: [ MagicSpells, Factions ]
-authors: [nisovin, TheComputerGeek2]

@@ -1,11 +1,6 @@
 rootProject.name = "MagicSpellsParent"
 
 include("core")
-include("factions")
-include("memory")
-include("shop")
-include("teams")
-include("towny")
 
 include(":nms:shared")
 include(":nms:v1_19_R1")
